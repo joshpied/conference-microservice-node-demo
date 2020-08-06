@@ -1,0 +1,4 @@
+node_modules/
+.env/
+conference-app/_imagecache
+.DS_Store
